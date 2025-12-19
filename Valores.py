@@ -1,8 +1,8 @@
-cont = soma = total = valor = 0
-valor = int(input('Digite um valor: '))
-while valor != 999:
+cont = soma = 0
+while True:
+    valor = int(input('Digite um valor: ')) 
+    if valor == 0:
+        break
     soma += valor
-    cont += 1
-    valor = int(input('Digite um valor: '))
-    if valor == 999:
-        print(f'Voce digitou {cont} numeros e a soma dos valores digitado é {soma}')
+    cont += 1 
+print(f'Voce digitou {cont} numeros e a soma dos valores digitado é {soma}')
