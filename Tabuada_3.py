@@ -7,5 +7,3 @@ while True:
     for c in range(1, 11):
         resultado = c * valor
         print(f'{valor} x {c} = {resultado}')
-
-

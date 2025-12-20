@@ -23,4 +23,3 @@ while mais != 0:
     mais = int(input('Quantos termo voce quer a mais: '))
 
 print(f'Finalizando com o total de {total} termos mostrado')
-

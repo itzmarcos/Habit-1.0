@@ -13,4 +13,3 @@ for c in range(1, 8):
         menor += 1
 print(f'Ao todo tivemos {maior} pessoas maiores de idade.')
 print(f'E tivemos {menor} pessoas menores de idade')
-
