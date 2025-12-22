@@ -1,3 +1,5 @@
+# JOGO DE ADIVINHAÇÃO
+
 from random import randint
 # resposta = tentativas = 0
 computador = randint(1, 10)

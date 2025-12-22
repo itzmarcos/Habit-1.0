@@ -1,3 +1,5 @@
+# JOGO DO IMPAR OU PAR
+
 from random import randint
 soma = cont = 0
 

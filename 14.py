@@ -1,3 +1,5 @@
+# VALORES
+
 cont = soma = 0
 while True:
     valor = int(input('Digite um valor: ')) 

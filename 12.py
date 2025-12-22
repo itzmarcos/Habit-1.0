@@ -1,3 +1,5 @@
+# TABUADA
+
 print('---------TABUADA---------')
 while True:   
     valor = int(input('Quer ver a tabuada de qual valor: '))

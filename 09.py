@@ -1,3 +1,5 @@
+# MAIOR OU MENOR
+
 maior = menor = cont = soma = media = 0
 resposta = ''
 while resposta != 'N':

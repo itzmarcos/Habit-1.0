@@ -1,8 +1,6 @@
-somaidade = 0
-mediaidade = 0
-maioridadem = 0
-nomevelho = ''
-totmulher20 = 0
+# ANALISADOR
+
+somaidade = mediaidade = maioridadem = nomevelho = totmulher20 = 0
 
 for p in range(1, 5):
     print(f'-------{p} PESSOA -------')

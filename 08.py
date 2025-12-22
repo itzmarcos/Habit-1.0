@@ -1,6 +1,6 @@
+# MENU
+
 soma = 0
-
-
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
 opcao = 0
